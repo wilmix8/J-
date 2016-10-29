@@ -28,7 +28,9 @@ A) used  with  JDollar,jstar, cweb,etc   with mobiles  and wallet
 b)  Used   in creating   design and templates.
 
 
-c) Here We use  XML,JSon,WSON.
+c) Here We use  XML,JSon,WSON,Jquery,html,css,Angularjs.
 
 
-d) USed  in Mobile and  wallet  webdesign
+d) Used  in Mobile and  Wallet  webdesign
+
+e) Used with Mobile   and  wallet  cloud  computing APPS.
