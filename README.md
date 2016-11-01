@@ -33,4 +33,4 @@ c) Here We use  XML,JSon,WSON,Jquery,html,css,Angularjs.
 
 d) Used  in Mobile and  Wallet  webdesign
 
-e) Used with Mobile   and  wallet  cloud  computing APPS.
+e) Used with Mobile   and  wallet  Remotewebapplication APPS.
