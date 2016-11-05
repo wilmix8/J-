@@ -1,11 +1,12 @@
-J@
+JAW
 ==
 
 It  is invented  in jdollar for  MobileAPPS,walletapps by wilmix jemin j at nov 2016.
 
+JAW   is  otherwise  known  as  JeminApps  for  Mobile Webpages.
 
 
-J@  has  five  modules  they are given below
+JAW  has  five  modules  they are given below
 
 
 a) J@  
