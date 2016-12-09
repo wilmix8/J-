@@ -1,7 +1,7 @@
 JAW
 ==
 
-It  is invented  in jdollar for  MobileAPPS,walletapps by wilmix jemin j at nov 2016.
+It  is invented  in WEB for  MobileAPPS,walletapps by wilmix jemin j at nov 2016.
 
 JAW   is  otherwise  known  as  JeminApps  for  Mobile Webpages.
 
@@ -23,7 +23,7 @@ Advantages:
 ===========
 
 
-A) used  with  JDollar,jstar, cweb,etc   with mobiles  and wallet
+A) used  with  WEB,jstar, cweb,etc   with mobiles  and wallet
 
 
 b)  Used   in creating   design and templates.
