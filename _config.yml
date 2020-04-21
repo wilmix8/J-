@@ -1,0 +1,8 @@
+title: JAW
+description: It  is invented  in WEB for  MobileAPPS,Walletapps by wilmix jemin j at nov 2016.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-architect
+
+gems:
+  - jekyll-mentions
