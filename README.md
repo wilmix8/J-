@@ -18,6 +18,13 @@ c) J#@
 d) JSLASH
 
 
+ J@
+===
+
+This  is nothing  creating remotemobileapp  in  mobiles.
+
+J@  is  another type  of  remote webapplication.
+
 
 Advantages:
 ===========
